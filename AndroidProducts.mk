@@ -1,0 +1,3 @@
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/NX507J.mk \
+    $(LOCAL_DIR)/omni_NX507J.mk
