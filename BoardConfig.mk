@@ -70,7 +70,7 @@ BOARD_HAS_NO_REAL_SDCARD := false #此项打开后可关闭分区功能
 TW_NO_USB_STORAGE := false #是否不使用大容量存储
 TW_INTERNAL_STORAGE_PATH := "/sdcard"
 TW_INTERNAL_STORAGE_MOUNT_POINT := "sdcard"
-
+PRODUCT_BUILD_PROP_OVERRIDES += BUILD_UTC_DATE=0
 
 
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"

@@ -1,1 +1,1 @@
-add_lunch_combo omni_NX507J-userdebug
+add_lunch_combo omni_NX507J-eng
